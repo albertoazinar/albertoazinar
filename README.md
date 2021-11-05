@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **AlbertoYabeda/AlbertoYabeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is <b>Alberto Azinar</b>
+I'm an technology enthusiast and a developer.
+
+- 🌱 I’m currently and always be learning Flutter🧐
+- 👯 I’m looking to collaborate on Flutter open source projects
+- 😄 Pronouns: He | Him | His |
