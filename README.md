@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 My name is <b>Alberto Azinar</b>
 I'm an technology enthusiast and a developer.
 
-- 🌱 I’m currently and always be learning Flutter🧐
+- 🌱 I’m currently learning Flutter🧐
 - 👯 I’m looking to collaborate on Flutter open source projects
 - 😄 Pronouns: He | Him | His |
