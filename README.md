@@ -19,5 +19,6 @@ I'm a developer and a technology enthusiast.
 
 - 🌱 I’m currently learning Flutter🧐
 - 👯 I’m looking to collaborate on Flutter open source projects
-- 🤹‍♂️ I'm skilled on ReactJS and Flutter
-- 😄 Pronouns: He | Him | His 
+- 🤹‍♂️ I'm skilled on Flutter
+- 😄 Pronouns: He | Him | His
+- 📃 I write about Flutter on <a href="https://medium.com/@albertoazinar">Medium</a> 
