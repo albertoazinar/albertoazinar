@@ -18,7 +18,7 @@ My name is <b>Alberto Azinar</b>
 I'm a Software Developer and a technology enthusiast.
 
 - 🎈 Learning to fly
-- 👯 I’m looking to collaborate on Flutter open source projects
+- 👯 Open to collaborate on Flutter open source projects
 - 🤹‍♂️ I'm skilled on Flutter
 - 😄 Pronouns: He | Him | His
 - 📃 I write about Flutter and Dart on <a href="https://medium.com/@albertoazinar">Medium</a> 
